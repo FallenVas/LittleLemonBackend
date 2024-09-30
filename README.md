@@ -1,5 +1,5 @@
 the urls i used are
 
-/restaurant
+/restaurant (this one doesn't need authentication the others do)
 /restaurant/menu
 /restaurant/booking/tables
